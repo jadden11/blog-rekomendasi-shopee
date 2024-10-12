@@ -13,6 +13,16 @@ const products = [
 export default function Accessories() {
   return (
     <>
+      <main className="grid min-h-full place-items-center bg-white px-6 py-24 sm:py-32 lg:px-8">
+        <div className="text-center">
+          <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+            Foods
+          </h1>
+          <p className="mt-6 text-base leading-7 text-gray-600">Makanan.</p>
+        </div>
+      </main>
+
+{/*       main section */}
     <div className="bg-white">
       <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
         <h2 className="sr-only">Products</h2>
