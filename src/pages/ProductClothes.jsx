@@ -64,7 +64,7 @@ const products = [
     imageAlt: "Bloods",
   },
   {
-    id: 6,
+    id: 7,
     name: "Hoodie Adidas ( hijau )",
     href: "https://shopee.co.id/Hoodie-Adidas-(-hijau-)-i.1266677172.27313765999?sp_atk=daeaa190-f495-4d43-8b1b-3e86ed8447ab&xptdk=daeaa190-f495-4d43-8b1b-3e86ed8447ab",
     price: "Rp 75.000",
