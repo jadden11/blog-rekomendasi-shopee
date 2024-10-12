@@ -37,7 +37,7 @@ const products = [
     imageAlt: "Sepatu Sneakers Wanita Korea Casual Fashion Collection 01",
   },
   {
-    id: 4,
+    id: 5,
     name: "Sandal jepit pria distro terbaru",
     href: "https://s.shopee.co.id/2ft4qjsn4r",
     price: "Rp 7.200",
@@ -46,7 +46,7 @@ const products = [
     imageAlt: "SANDAL JEPIT PRIA DISTRO KEREN TERBARU",
   },
   {
-    id: 5,
+    id: 6,
     name: "Sepatu Wanita Kasual Sneakers Korean Putih",
     href: "https://s.shopee.co.id/7fHkp0DEF0",
     price: "Rp 52.889",
@@ -55,7 +55,7 @@ const products = [
     imageAlt: "Sepatu Wanita Kasual Sneakers Korean Putih",
   },
   {
-    id: 6,
+    id: 7,
     name: "Jaket Bloods, 3 Warna",
     href: "https://shopee.co.id/Jaket-Bloods-3-Warna-i.1266677172.28063689308?sp_atk=29bfdde3-0e4f-4bf6-9629-426b2807a5e6&xptdk=29bfdde3-0e4f-4bf6-9629-426b2807a5e6",
     price: "Rp 420.000",
@@ -64,7 +64,7 @@ const products = [
     imageAlt: "Bloods",
   },
   {
-    id: 7,
+    id: 8,
     name: "Hoodie Adidas ( hijau )",
     href: "https://shopee.co.id/Hoodie-Adidas-(-hijau-)-i.1266677172.27313765999?sp_atk=daeaa190-f495-4d43-8b1b-3e86ed8447ab&xptdk=daeaa190-f495-4d43-8b1b-3e86ed8447ab",
     price: "Rp 75.000",
