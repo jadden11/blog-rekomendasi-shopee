@@ -54,6 +54,24 @@ const products = [
       "https://down-tx-id.img.susercontent.com/id-11134207-7r98v-lygboci95pnk88.webp",
     imageAlt: "Sepatu Wanita Kasual Sneakers Korean Putih",
   },
+  {
+    id: 6,
+    name: "Jaket Bloods, 3 Warna",
+    href: "https://shopee.co.id/Jaket-Bloods-3-Warna-i.1266677172.28063689308?sp_atk=29bfdde3-0e4f-4bf6-9629-426b2807a5e6&xptdk=29bfdde3-0e4f-4bf6-9629-426b2807a5e6",
+    price: "Rp 420.000",
+    imageSrc:
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasf-m16tnem5bfgi3a@resize_w450_nl.webp",
+    imageAlt: "Bloods",
+  },
+  {
+    id: 6,
+    name: "Hoodie Adidas ( hijau )",
+    href: "https://shopee.co.id/Hoodie-Adidas-(-hijau-)-i.1266677172.27313765999?sp_atk=daeaa190-f495-4d43-8b1b-3e86ed8447ab&xptdk=daeaa190-f495-4d43-8b1b-3e86ed8447ab",
+    price: "Rp 75.000",
+    imageSrc:
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasa-m185oust1clbf2@resize_w450_nl.webp",
+    imageAlt: "Hoodie",
+  },
 ];
 
 export default function ProductCLothes() {
