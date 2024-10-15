@@ -26,6 +26,15 @@ const products = [
       "https://down-cvs-id.img.susercontent.com/id-11134207-7r98p-lsi6xcxy3hsd4c.webp",
     imageAlt: "Mouse.",
   },
+  {
+    id: 4,
+    name: "7S SARUNG JARI JEMPOL / ANTI KERINGAT / SARUNG JEMPOL GAME MOBILE LEGEND FREE FIRE 1SET ISI 2PCS",
+    href: "https://s.shopee.co.id/8UqwDjzjVN",
+    price: "Rp 650",
+    imageSrc:
+      "https://down-cvs-id.img.susercontent.com/sg-11134201-22100-c3jwlyoavuivd6.webp",
+    imageAlt: "Mouse.",
+  },
 ];
 
 export default function Accessories() {
