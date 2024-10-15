@@ -8,6 +8,15 @@ const products = [
       "https://down-bs-id.img.susercontent.com/id-11134207-7r98x-lub6y79geeaeeb.webp",
     imageAlt: "Basreng Pedas.",
   },
+  {
+    id: 2,
+    name: "(TERMURAH) KRIPIK USUS AYAM CRISPY ANEKA RASA KEMASAN 100GR RENYAH DAN GURIH /CAMILAN/MAKANA RINGAN",
+    href: "https://s.shopee.co.id/BBoGPu296",
+    price: "Rp 6.100",
+    imageSrc:
+      "https://down-tx-id.img.susercontent.com/id-11134207-7r98q-lq6lvhej373m2d.webp",
+    imageAlt: "Kripik usus ayam.",
+  },
 ];
 
 export default function ProductFoods() {
