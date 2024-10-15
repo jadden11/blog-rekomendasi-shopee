@@ -17,6 +17,15 @@ const products = [
       "https://down-cvs-id.img.susercontent.com/id-11134207-7r98r-llokdu3f0r043b.webp",
     imageAlt: "Monitor.",
   },
+  {
+    id: 3,
+    name: "BASIKE Mouse Wireless 2.4Ghz 1600DPI dengan Receiver USB untuk PC Laptop Tablet Silent Click Mini",
+    href: "https://s.shopee.co.id/6piiEYROCy",
+    price: "Rp 29.000",
+    imageSrc:
+      "https://down-cvs-id.img.susercontent.com/id-11134207-7r98p-lsi6xcxy3hsd4c.webp",
+    imageAlt: "Mouse.",
+  },
 ];
 
 export default function Accessories() {
