@@ -65,12 +65,22 @@ const products = [
   },
   {
     id: 8,
+    name: "PANARYBODY Sepatu Pria Casual Sneakers Fashion OOTD Hangout Kuliah Kerja Travel Sepatu Cowok Modis J2027",
+    href: "https://s.shopee.co.id/7pbFOBqBIu",
+    price: "Rp 146.200",
+    imageSrc:
+      
+    "https://down-tx-id.img.susercontent.com/cf00dc40a2537eb21036b45c5fd6a0d3.webp",
+    imageAlt: "Hoodie",
+  },
+  {
+    id: 9,
     name: "Hoodie Adidas ( hijau )",
     href: "https://shopee.co.id/Hoodie-Adidas-(-hijau-)-i.1266677172.27313765999?sp_atk=daeaa190-f495-4d43-8b1b-3e86ed8447ab&xptdk=daeaa190-f495-4d43-8b1b-3e86ed8447ab",
     price: "Rp 75.000",
     imageSrc:
       "https://down-id.img.susercontent.com/file/id-11134207-7rasa-m185oust1clbf2@resize_w450_nl.webp",
-    imageAlt: "Hoodie",
+    imageAlt: "Shoe",
   },
 ];
 
