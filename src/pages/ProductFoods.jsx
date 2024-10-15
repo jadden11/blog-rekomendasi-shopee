@@ -26,6 +26,15 @@ const products = [
       "https://down-tx-id.img.susercontent.com/id-11134207-7qul9-lkf0ligkm6xg51.webp",
     imageAlt: "baso aci.",
   },
+  {
+    id: 4,
+    name: "BASRENG VIRAL KEMASAN BOX 500ML",
+    href: "https://s.shopee.co.id/40OWqoBQYg",
+    price: "Rp 5.200",
+    imageSrc:
+      "https://down-cvs-id.img.susercontent.com/sg-11134201-22120-3vhbk3lvemlvab.webp",
+    imageAlt: "Basreng.",
+  },
 ];
 
 export default function ProductFoods() {
