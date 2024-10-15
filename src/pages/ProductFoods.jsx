@@ -17,6 +17,15 @@ const products = [
       "https://down-tx-id.img.susercontent.com/id-11134207-7r98q-lq6lvhej373m2d.webp",
     imageAlt: "Kripik usus ayam.",
   },
+  {
+    id: 3,
+    name: "BASO ACI AYAM SUIR GURIH",
+    href: "https://s.shopee.co.id/8pTmaaPuzP",
+    price: "Rp 3.395",
+    imageSrc:
+      "https://down-tx-id.img.susercontent.com/id-11134207-7qul9-lkf0ligkm6xg51.webp",
+    imageAlt: "baso aci.",
+  },
 ];
 
 export default function ProductFoods() {
