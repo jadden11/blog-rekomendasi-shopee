@@ -69,8 +69,7 @@ const products = [
     href: "https://s.shopee.co.id/7pbFOBqBIu",
     price: "Rp 146.200",
     imageSrc:
-      
-    "https://down-tx-id.img.susercontent.com/cf00dc40a2537eb21036b45c5fd6a0d3.webp",
+      "https://down-tx-id.img.susercontent.com/cf00dc40a2537eb21036b45c5fd6a0d3.webp",
     imageAlt: "Hoodie",
   },
   {
