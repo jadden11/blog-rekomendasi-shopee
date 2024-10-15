@@ -8,6 +8,15 @@ const products = [
       "https://down-tx-id.img.susercontent.com/sg-11134201-7rd4x-lwjpizmgwjmgd8.webp",
     imageAlt: "K101D.",
   },
+  {
+    id: 2,
+    name: "MIIGO- Monitor, Monitor Game Profesional, Monitor 24 Inci, Tampilan Lengkung, Panel IPS, (144HZ/165HZ) Kecepatan Refresh Tinggi, Tampilan HD",
+    href: "https://s.shopee.co.id/40OWr3rlUW",
+    price: "Rp 939.000",
+    imageSrc:
+      "https://down-cvs-id.img.susercontent.com/id-11134207-7r98r-llokdu3f0r043b.webp",
+    imageAlt: "Monitor.",
+  },
 ];
 
 export default function Accessories() {
