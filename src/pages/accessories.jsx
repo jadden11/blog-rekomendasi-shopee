@@ -35,6 +35,24 @@ const products = [
       "https://down-cvs-id.img.susercontent.com/sg-11134201-22100-c3jwlyoavuivd6.webp",
     imageAlt: "Mouse.",
   },
+  {
+    id: 5,
+    name: "Kacamata Hitam Wanita Kaca Mata Hitam Fashion Retro Vintage Kacamata Persegi Korean -Won",
+    href: "https://s.shopee.co.id/8pTmcZT1tK",
+    price: "Rp 6.999",
+    imageSrc:
+      "https://down-cvs-id.img.susercontent.com/683d7a69340f781f4318cd2232dd51aa.webp",
+    imageAlt: "Kacamata.",
+  },
+  {
+    id: 6,
+    name: "Borongdong - Kaos Kaki Pendek Atas Mata Kaki Pria Wanita/Kaos Kaki Olahraga/Kaos Kaki Sport (New Sport 3/4)",
+    href: "https://s.shopee.co.id/1g0c5bkf2k",
+    price: "Rp 1.700",
+    imageSrc:
+      "https://down-tx-id.img.susercontent.com/id-11134207-7qukw-lgisfkx2hpse9a.webp",
+    imageAlt: "KaosKaki.",
+  },
 ];
 
 export default function Accessories() {
