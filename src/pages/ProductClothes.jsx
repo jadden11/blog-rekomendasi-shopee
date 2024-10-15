@@ -81,6 +81,15 @@ const products = [
       "https://down-id.img.susercontent.com/file/id-11134207-7rasa-m185oust1clbf2@resize_w450_nl.webp",
     imageAlt: "Shoe",
   },
+  {
+    id: 10,
+    name: "Sweater Hoodie Jaket Basic Croptop Zipper Resleting Wanita Fashion",
+    href: "https://s.shopee.co.id/g84rwymLP",
+    price: "Rp 38.000",
+    imageSrc:
+      "https://down-tx-id.img.susercontent.com/id-11134207-7r991-lr1utphw098t83.webp",
+    imageAlt: "hoodie croptop",
+  },
 ];
 
 export default function ProductCLothes() {
