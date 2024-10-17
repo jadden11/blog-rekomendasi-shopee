@@ -35,6 +35,15 @@ const products = [
       "https://down-cvs-id.img.susercontent.com/sg-11134201-22120-3vhbk3lvemlvab.webp",
     imageAlt: "Basreng.",
   },
+  {
+    id: 5,
+    name: "Mie Lidi Pedas Mi Biting Renyah",
+    href: "https://s.shopee.co.id/6V5uzRpQuP",
+    price: "Rp 5.200",
+    imageSrc:
+      "https://down-cvs-id.img.susercontent.com/sg-11134201-22120-3vhbk3lvemlvab.webp",
+    imageAlt: "Basreng.",
+  },
 ];
 
 export default function ProductFoods() {
