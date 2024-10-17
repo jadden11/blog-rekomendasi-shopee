@@ -39,10 +39,10 @@ const products = [
     id: 5,
     name: "Mie Lidi Pedas Mi Biting Renyah",
     href: "https://s.shopee.co.id/6V5uzRpQuP",
-    price: "Rp 5.200",
+    price: "Rp 5.700",
     imageSrc:
-      "https://down-cvs-id.img.susercontent.com/sg-11134201-22120-3vhbk3lvemlvab.webp",
-    imageAlt: "Basreng.",
+      "https://down-tx-id.img.susercontent.com/575945843e8a3a2bb0e50fbc0000d8c2.webp",
+    imageAlt: "mie lidi.",
   },
 ];
 
