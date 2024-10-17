@@ -44,6 +44,15 @@ const products = [
       "https://down-tx-id.img.susercontent.com/575945843e8a3a2bb0e50fbc0000d8c2.webp",
     imageAlt: "mie lidi.",
   },
+  {
+    id: 6,
+    name: "Baso aci ayam suir gurih",
+    href: "https://s.shopee.co.id/9pMMxmkPrW",
+    price: "Rp 3.395",
+    imageSrc:
+      "https://down-tx-id.img.susercontent.com/id-11134207-7qul9-lkf0ligkm6xg51.webp",
+    imageAlt: "Baso aci.",
+  },
 ];
 
 export default function ProductFoods() {
