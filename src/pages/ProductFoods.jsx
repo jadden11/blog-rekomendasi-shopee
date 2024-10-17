@@ -53,6 +53,15 @@ const products = [
       "https://down-tx-id.img.susercontent.com/id-11134207-7qul9-lkf0ligkm6xg51.webp",
     imageAlt: "Baso aci.",
   },
+  {
+    id: 7,
+    name: "Cireng Isi Premium Harga Eceran",
+    href: "https://s.shopee.co.id/8znFyTmTEO",
+    price: "Rp 1.796",
+    imageSrc:
+      "https://down-tx-id.img.susercontent.com/id-11134207-7rasi-m0iuynrnlhxobc.webp",
+    imageAlt: "Cireng.",
+  },
 ];
 
 export default function ProductFoods() {
