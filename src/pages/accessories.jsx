@@ -53,6 +53,15 @@ const products = [
       "https://down-tx-id.img.susercontent.com/id-11134207-7qukw-lgisfkx2hpse9a.webp",
     imageAlt: "KaosKaki.",
   },
+  {
+    id: 7,
+    name: "TWS Handsfree Headset Earphone Bluetooth Wireless Inpods",
+    href: "https://s.shopee.co.id/30W6IhuCdz",
+    price: "Rp 25.800",
+    imageSrc:
+      "https://down-id.img.susercontent.com/file/6045a3c260b71eb3c0601c10be5c9b27@resize_w450_nl.webp",
+    imageAlt: "Tws.",
+  },
 ];
 
 export default function Accessories() {
